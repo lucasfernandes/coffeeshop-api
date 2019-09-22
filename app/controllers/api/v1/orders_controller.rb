@@ -39,6 +39,8 @@ module Api
       def orders_params
         params.permit(:name, :coffeeName, :total, :size)
       end
+
+      # some comments
     end
   end
 end
