@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: 
+  coffeeName: 
+  total: MyString
+  Double: MyString
+  size: 
+
+two:
+  name: 
+  coffeeName: 
+  total: MyString
+  Double: MyString
+  size: 
