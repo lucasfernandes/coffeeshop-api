@@ -3,7 +3,7 @@ class CreateOrders < ActiveRecord::Migration[5.1]
     create_table :orders do |t|
       t.string :name
       t.string :coffeeName
-      t.column :total, "double"
+      t.decima :total
       t.string :size
 
       t.timestamps
